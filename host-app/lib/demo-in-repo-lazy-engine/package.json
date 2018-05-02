@@ -1,0 +1,12 @@
+{
+  "name": "demo-in-repo-lazy-engine",
+  "keywords": [
+    "ember-addon",
+    "ember-engine"
+  ],
+  "dependencies": {
+    "conflictable-addon": "1.3.0",
+    "ember-cli-babel": "*",
+    "ember-cli-htmlbars": "*"
+  }
+}
