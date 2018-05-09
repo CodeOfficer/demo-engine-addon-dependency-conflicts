@@ -17,9 +17,9 @@
     "test": "ember test"
   },
   "devDependencies": {
-    "ember-engines": "^0.5.18",
-    "demo-external-engine": "0.0.0",
-    "demo-external-engine-two": "0.0.0",
+    "ember-engines": "0.5.18",
+    "demo-external-engine": "file:../demo-external-engine",
+    "demo-external-engine-two": "file:../demo-external-engine-two",
     "conflictable-addon": "1.0.0",
     "broccoli-asset-rev": "^2.4.5",
     "ember-ajax": "^3.0.0",
